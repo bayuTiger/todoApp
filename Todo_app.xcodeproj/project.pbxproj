@@ -14,6 +14,7 @@
 		4D9963BC25A134B80043C9DD /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9963BB25A134B80043C9DD /* Persistence.swift */; };
 		4D9963BF25A134B80043C9DD /* Todo_app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4D9963BD25A134B80043C9DD /* Todo_app.xcdatamodeld */; };
 		4D9963C825A135180043C9DD /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9963C725A135180043C9DD /* ImageView.swift */; };
+		4D9963CB25A136AB0043C9DD /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D9963CA25A136AB0043C9DD /* CheckBox.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4D9963BE25A134B80043C9DD /* Todo_app.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Todo_app.xcdatamodel; sourceTree = "<group>"; };
 		4D9963C025A134B80043C9DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D9963C725A135180043C9DD /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		4D9963CA25A136AB0043C9DD /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				4D9963BD25A134B80043C9DD /* Todo_app.xcdatamodeld */,
 				4D9963B825A134B80043C9DD /* Preview Content */,
 				4D9963C725A135180043C9DD /* ImageView.swift */,
+				4D9963CA25A136AB0043C9DD /* CheckBox.swift */,
 			);
 			path = Todo_app;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			files = (
 				4D9963C825A135180043C9DD /* ImageView.swift in Sources */,
 				4D9963BC25A134B80043C9DD /* Persistence.swift in Sources */,
+				4D9963CB25A136AB0043C9DD /* CheckBox.swift in Sources */,
 				4D9963B525A134B60043C9DD /* ContentView.swift in Sources */,
 				4D9963B325A134B60043C9DD /* Todo_appApp.swift in Sources */,
 				4D9963BF25A134B80043C9DD /* Todo_app.xcdatamodeld in Sources */,
