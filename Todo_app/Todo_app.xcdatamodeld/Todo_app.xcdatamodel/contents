@@ -2,7 +2,7 @@
 <model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20C69" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
     <entity name="Entity1" representedClassName="Entity1" syncable="YES" codeGenerationType="class"/>
     <entity name="Item" representedClassName="Item" syncable="YES" codeGenerationType="class">
-        <attribute name="attribute" optional="YES"/>
+        <attribute name="attribute" optional="YES" attributeType="String"/>
         <attribute name="timestamp" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
     </entity>
     <entity name="TodoEntity" representedClassName="TodoEntity" syncable="YES" codeGenerationType="class">
@@ -14,7 +14,7 @@
     </entity>
     <elements>
         <element name="Item" positionX="-63" positionY="-18" width="128" height="73"/>
-        <element name="TodoEntity" positionX="-63" positionY="-9" width="128" height="104"/>
-        <element name="Entity1" positionX="-54" positionY="0" width="128" height="29"/>
+        <element name="TodoEntity" positionX="-63" positionY="-9" width="128" height="118"/>
+        <element name="Entity1" positionX="-54" positionY="0" width="128" height="43"/>
     </elements>
 </model>
